@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{F6197056-1529-4208-9F41-84974FA27E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventilator", "Ventilator\Ventilator.csproj", "{442824C3-F08E-4B56-8B86-E44DA3784DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sink", "Sink\Sink.csproj", "{CF9D658E-6864-46C0-9263-6F92029AA22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6197056-1529-4208-9F41-84974FA27E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6197056-1529-4208-9F41-84974FA27E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6197056-1529-4208-9F41-84974FA27E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6197056-1529-4208-9F41-84974FA27E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442824C3-F08E-4B56-8B86-E44DA3784DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442824C3-F08E-4B56-8B86-E44DA3784DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442824C3-F08E-4B56-8B86-E44DA3784DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442824C3-F08E-4B56-8B86-E44DA3784DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9D658E-6864-46C0-9263-6F92029AA22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9D658E-6864-46C0-9263-6F92029AA22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9D658E-6864-46C0-9263-6F92029AA22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9D658E-6864-46C0-9263-6F92029AA22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
